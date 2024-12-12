@@ -1,0 +1,48 @@
+
+    body{
+        font-family: arial;
+        color: white;
+        background-color: rgb(22, 20, 20);
+        
+    }
+    .heading{
+        font-size: 28px;
+        font-weight: bold;
+        margin-left: 15px;
+    }
+    .move-icon{
+        width:45px;
+        
+    }
+    .move-button{
+        width:100px;
+        height: 100px;
+        background-color: transparent;
+        border:solid white 3px;
+        border-radius: 50px;
+        cursor: pointer;
+        margin-right: 15px;
+        margin-left: 12px;
+        margin-bottom: 20px;
+    }
+    .css-move,.css-result,.css-score{
+        margin-left: 15px;
+        margin-bottom: 25px;
+    }
+
+    .reset-score{
+        margin-left: 15px;
+        padding:10px 15px;
+        font-weight: bold;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: rgb(71, 221, 196);
+    }
+
+    .instruction{
+        margin-left:15px;
+        font-size: 14px;
+        margin-bottom: 20px;
+        margin-top:-15px;
+    }
+
